@@ -1,0 +1,18 @@
+body {   
+    font-family: Arial, sans-serif;
+    background-image: url('batman.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+}
+h1{
+   margin: 68px;
+}
+.fb img, .ig img, .tt img {
+    width: 100px;
+    border-radius: 10px;
+}
+li{
+ list-style-type: none;
+}
